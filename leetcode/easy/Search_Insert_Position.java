@@ -7,7 +7,7 @@ package leetcode.easy;
  * You must write an algorithm with O(log n) runtime complexity.
  * 
  * @author zirui
- * @url 
+ * @url https://leetcode.com/problems/search-insert-position/
  *
  */
 
