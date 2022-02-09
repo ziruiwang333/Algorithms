@@ -1,6 +1,6 @@
 package leetcode.medium;
 
-import leetcode.easy.listNode.ListNode;
+import leetcode.lib.listNode.ListNode;
 
 /**
  * You are given two non-empty linked lists representing two non-negative integers. 

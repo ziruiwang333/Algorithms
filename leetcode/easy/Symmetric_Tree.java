@@ -3,7 +3,7 @@ package leetcode.easy;
 import java.util.LinkedList;
 import java.util.Queue;
 
-import leetcode.easy.treeNode.TreeNode;
+import leetcode.lib.treeNode.TreeNode;
 
 /**
  * Given the root of a binary tree, check whether it is a mirror of itself

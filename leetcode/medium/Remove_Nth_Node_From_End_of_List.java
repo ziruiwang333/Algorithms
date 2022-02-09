@@ -1,6 +1,6 @@
 package leetcode.medium;
 
-import leetcode.easy.listNode.ListNode;
+import leetcode.lib.listNode.ListNode;
 
 /**
  * Given the head of a linked list, remove the nth node from the end of the list 

@@ -2,7 +2,7 @@ package leetcode.easy;
 
 import java.util.HashSet;
 
-import leetcode.easy.listNode.ListNode;
+import leetcode.lib.listNode.ListNode;
 
 /**
  * Given the head of a sorted linked list, delete all duplicates such that 

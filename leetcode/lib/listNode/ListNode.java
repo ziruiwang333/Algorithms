@@ -1,4 +1,4 @@
-package leetcode.easy.listNode;
+package leetcode.lib.listNode;
 
 public class ListNode {
 	
