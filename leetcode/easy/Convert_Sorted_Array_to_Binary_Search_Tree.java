@@ -3,7 +3,7 @@ package leetcode.easy;
 import java.util.LinkedList;
 import java.util.Queue;
 
-import leetcode.lib.treeNode.TreeNode;
+import leetcode.common.treeNode.TreeNode;
 
 /**
  * Given an integer array nums where the elements are sorted in ascending order, 

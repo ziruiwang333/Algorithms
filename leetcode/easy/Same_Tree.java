@@ -1,6 +1,6 @@
 package leetcode.easy;
 
-import leetcode.lib.treeNode.TreeNode;
+import leetcode.common.treeNode.TreeNode;
 
 /**
  * Given the roots of two binary trees p and q, write a function to check if

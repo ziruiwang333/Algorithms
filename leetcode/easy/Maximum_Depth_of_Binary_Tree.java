@@ -1,6 +1,6 @@
 package leetcode.easy;
 
-import leetcode.lib.treeNode.TreeNode;
+import leetcode.common.treeNode.TreeNode;
 
 /**
  * Given the root of a binary tree, return its maximum depth.
