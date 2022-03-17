@@ -16,11 +16,12 @@ import java.util.List;
 public class Permutations_2 {
 
 	public static void main(String[] args) {
-		int[] nums = {1,1,2};
+		int[] nums = {1,2,3,4,5,6,7,8,8,1};
 		Iterator<List<Integer>> iter = mySol(nums).iterator();
 		while(iter.hasNext()) {
 			System.out.println(iter.next());
 		}
+		System.out.println(mySol(nums).size());
 	}
 	
 	public static List<List<Integer>> mySol(int[] nums){
