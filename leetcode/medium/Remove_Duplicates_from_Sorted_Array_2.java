@@ -32,7 +32,7 @@ public class Remove_Duplicates_from_Sorted_Array_2 {
 		if(nums.length <= 2) {
 			return 2;
 		}
-		int result = 0;
+//		int result = 0;
 		int slowPtr = 0;
 		for(int fastPtr=0; fastPtr<nums.length; fastPtr++) {
 			if(fastPtr <= nums.length-1-1-1 && nums[fastPtr] == nums[fastPtr+2]) {
