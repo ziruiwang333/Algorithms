@@ -8,7 +8,7 @@ import java.util.HashMap;
  * @Date: 2022/10/1
  * @Author: Zirui Wang
  */
-public class LengthOfLongestSubstring_1 {
+public class LengthOfLongestSubstring_1_3 {
     public static void main(String[] args) {
         String s = "abcabcbb";
         System.out.println(lengthOfLongestSubstring2(s));

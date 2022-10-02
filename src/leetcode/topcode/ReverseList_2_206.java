@@ -10,7 +10,7 @@ import java.util.Stack;
  * @Date: 2022/10/1
  * @Author: Zirui Wang
  */
-public class ReverseList_2 {
+public class ReverseList_2_206 {
     public static void main(String[] args) {
         ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5)))));
         ListNode result = reverseList(head);
