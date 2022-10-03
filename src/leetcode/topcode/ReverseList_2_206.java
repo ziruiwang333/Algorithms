@@ -21,6 +21,7 @@ public class ReverseList_2_206 {
     }
 
     /**
+     * 使用栈
      * 执行用时：1ms,在所有Java提交中击败了100.00%的用户
      * 内存消耗：41MB,在所有Java提交中击败了87.80%的用户
      * @param head

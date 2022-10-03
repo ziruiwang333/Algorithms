@@ -15,6 +15,7 @@ public class LengthOfLongestSubstring_1_3 {
     }
 
     /**
+     * StringBuilder
      * 执行用时：4 ms, 在所有 Java 提交中击败了87.33%的用户
      * 内存消耗：42 MB, 在所有 Java 提交中击败了13.89%的用户
      * @param s
@@ -43,6 +44,7 @@ public class LengthOfLongestSubstring_1_3 {
     }
 
     /**
+     * HashMap
      * 执行用时：67 ms, 在所有 Java 提交中击败了12.18%的用户
      * 内存消耗：42.4 MB, 在所有 Java 提交中击败了5.01%的用户
      * @param s
